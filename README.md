@@ -3,7 +3,7 @@
 **Disciplina:** Estrutura de Dados  
 **Professor:** Anderson Soares  
 
-## 🎯 Objetivo
+##  Objetivo
 Compreender o conceito de recursividade e aplicá-lo na implementação de uma árvore
 binária de busca (BST), incluindo as operações de inserção, busca e percursos
 (pré-ordem, em ordem e pós-ordem).
