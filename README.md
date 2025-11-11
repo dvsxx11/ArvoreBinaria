@@ -29,9 +29,9 @@ Exemplo simples:
 ```java
 void emOrdem(Node no) {
     if (no != null) {
-        emOrdem(no.esquerda);  // chamada recursiva pra esquerda
-        System.out.print(no.valor + " "); // mostra o valor atual
-        emOrdem(no.direita);   // chamada recursiva pra direita
+        emOrdem(no.esquerda);  // chamada recursiva esquerda
+        System.out.print(no.valor + " "); // mostra valor atual
+        emOrdem(no.direita);   // chamada recursiva direita
     }
 }
 ```
