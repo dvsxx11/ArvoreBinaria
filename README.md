@@ -2,7 +2,9 @@
 
 **Disciplina:** Estrutura de Dados  
 **Nome:** Davi Silva Soares
+
 **Instituição:** Centro Universitário Santo Agostinho
+
 **Período:** 4º período
 
 ##  Objetivo
