@@ -16,7 +16,7 @@ binária de busca (BST), incluindo as operações de inserção, busca e percurs
 
 ### 1. O que é recursividade?
 Recursividade é quando uma função chama ela mesma pra resolver um problema menor.  
-Ela sempre precisa de um **caso base**, que é a condição de parada, pra não entrar em loop infinito.
+Ela sempre precisa de um caso base, que é a condição de parada, pra não entrar em loop infinito.
 
 Exemplo simples:
 ```java
