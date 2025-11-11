@@ -1,7 +1,9 @@
 #  Trabalho Prático – Árvores Binárias e Recursividade
 
 **Disciplina:** Estrutura de Dados  
-**Professor:** Anderson Soares  
+**Nome:** Davi Silva Soares
+**Instituição:** Centro Universitário Santo Agostinho
+**Período:** 4º período
 
 ##  Objetivo
 Compreender o conceito de recursividade e aplicá-lo na implementação de uma árvore
@@ -55,8 +57,6 @@ for (int i = 1; i <= 5; i++) {
 }
 ```
 
-## Nome: Davi Silva Soares
-## Instituição: Centro Universitário Santo Agostinho
-## Período: 4º período
+
 
 
