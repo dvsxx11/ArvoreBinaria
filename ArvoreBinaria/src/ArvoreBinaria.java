@@ -27,6 +27,7 @@ public class ArvoreBinaria {
     }
 
     private boolean buscarRec(Node atual, int valor) {
+        
         // Caso base: se o nó for nulo ou achou o valor
         if (atual == null) return false;
         if (atual.valor == valor) return true;
@@ -69,9 +70,10 @@ public class ArvoreBinaria {
 
     private void posOrdemRec(Node no) {
         if (no != null) {
-            posOrdemRec(no.esquerda); // esquerda
-            posOrdemRec(no.direita);  // direita
-            System.out.print(no.valor + " "); // raiz no final
+            posOrdemRec(no.esquerda); 
+            posOrdemRec(no.direita);  
+            System.out.print(no.valor + " "); 
         }
     }
 }
+
